@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LapChrono</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_lap">Lap</string>
+</resources>
